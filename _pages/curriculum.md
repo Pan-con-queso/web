@@ -7,7 +7,7 @@ title: "Currículum"
 =========
 **2019** Auxiliar de curso Ecuaciones Diferenciales Ordinarias
 
-**2018** a la fecha Asistente de investigación en Nic Chile Research Labs. Se trabaja en estudio de métricas de robustez de grafos.
+**2018 a la fecha** Asistente de investigación en Nic Chile Research Labs. Se trabaja en estudio de métricas de robustez de grafos.
 
 **2018** Práctica Profesional en Nic Chile Research Labs. Se trabaja midiendo el efecto de cambiar el tipo de red física en robustez de redes de internet.
 

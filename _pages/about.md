@@ -9,4 +9,4 @@ Voy a realizar mi tesis de Magister con José Soto trabajando en construcción d
 
 Contacto
 =========
-francisco at sanhueza (punto) net
+mail: francisco at sanhueza (punto) net
