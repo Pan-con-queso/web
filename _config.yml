@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Francisco Sanhueza Matamala"
   avatar : "/assets/images/Panchito.jpg"
   bio    : "Estudiante de Magister en Ingeniería Matemática. Matemática Discreta y Computación"
   links:
