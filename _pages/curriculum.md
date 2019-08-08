@@ -51,3 +51,8 @@ Experiencia Personal
 Habilidades Computacionales
 =========
 Python, Latex, Matlab, C++, Microsoft Office, Java
+
+Idiomas
+=========
+*Español (Nativo)
+*Inglés (Intermedio)
