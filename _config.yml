@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/Panchito.jpg"
+  bio    : "Estudiante de Magister en Ingeniería Matemática. Matemática Discreta y Computación"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
