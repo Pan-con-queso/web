@@ -54,5 +54,5 @@ Python, Latex, Matlab, C++, Microsoft Office, Java
 
 Idiomas
 =========
-*Español (Nativo)
-*Inglés (Intermedio)
+* Español (Nativo)
+* Inglés (Intermedio)
