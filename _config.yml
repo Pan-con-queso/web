@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Francisco Sanhueza Matamala"
   avatar : "/assets/images/Panchito.jpg"
-  bio    : "Estudiante de magister en ingeniería matemática. Matemática discreta y computación"
+  bio    : "Estudiante de magister en Ingeniería Matemática. Matemática discreta y computación."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
