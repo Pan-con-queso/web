@@ -8,6 +8,11 @@ header:
   actions:
 ---
 
+**Estudios**
+-------
+
+**2013-2018** Licenciatura en ciencias de la ingeniería, mención matemática. Nota 5.8/7.0
+
 **Experiencia Laboral**
 --------
 **2019** Auxiliar de curso Ecuaciones Diferenciales Ordinarias
