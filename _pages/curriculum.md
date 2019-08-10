@@ -1,6 +1,11 @@
 ---
 permalink: /curriculum/
 title: "Currículum"
+
+header:
+  overlay_image: /assets/images/MaryPoppins.jpg
+  caption: "Mary Poppins (1964)"
+  actions:
 ---
 
 **Experiencia Laboral**
