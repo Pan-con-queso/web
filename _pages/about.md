@@ -3,7 +3,7 @@ permalink: /about/
 title: "Acerca de mi"
 
 header:
-  overlay_image: /assets/images/RanaRene.jpg
+  image: /assets/images/RanaRene.jpg
   caption: "The Muppet Movie (1979)"
   actions:
 ---
