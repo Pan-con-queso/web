@@ -1,6 +1,11 @@
 ---
 permalink: /about/
 title: "Acerca de mi"
+
+header:
+  overlay_image: /assets/images/RanaRene.jpg
+  caption: "The Muppet Movie (1979)"
+  actions:
 ---
 
 Estudiante de magister en ciencias de la ingeniería, mención matemática aplicada. Me interesa la computación, los grafos y la matemática discreta en general. También me gusta el cine, aprender de cosas random, la música y viajar.
