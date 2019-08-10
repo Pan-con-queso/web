@@ -57,10 +57,9 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
   overlay_image: /assets/images/RanaRene.jpg
-  caption: "The Muppet Movie (1979"
+  caption: "The Muppet Movie (1979)"
   actions:
 
 
