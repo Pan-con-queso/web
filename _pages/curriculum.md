@@ -9,7 +9,7 @@ header:
 ---
 
 **Experiencia Laboral**
-=========
+--------
 **2019** Auxiliar de curso Ecuaciones Diferenciales Ordinarias
 
 **2018 a la fecha** Asistente de investigación en Nic Chile Research Labs. Se trabaja en estudio de métricas de robustez de grafos.
@@ -32,7 +32,7 @@ header:
 * Diseño y Análisis de Algoritmos el año 2019
 
 Experiencia Personal
-========
+----------
 **2018** Asistencia a XIII Escuela de matemáticas Discretas en el Instituto de Sistemas Complejos de Valparaiso. Organizado por el CMM.
 
 **2017** Participación en campaña Yo No Digo.
@@ -54,10 +54,10 @@ Experiencia Personal
 **2013 a la fecha** Miembro de Radio Integral. en 2014 y 2015 me desempeñé como director de difusión. Y en 2014 también fui director de programación.
 
 Habilidades Computacionales
-=========
+----------
 Python, Latex, Matlab, C++, Microsoft Office, Java
 
 Idiomas
-=========
+----------
 * Español (Nativo)
 * Inglés (Intermedio)
