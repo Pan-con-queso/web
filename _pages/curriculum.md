@@ -65,4 +65,4 @@ Python, Latex, Matlab, C++, Microsoft Office, Java
 Idiomas
 ----------
 * Español (Nativo)
-* Inglés (Intermedio)
+* Inglés (Intermedio), PET aprobado
