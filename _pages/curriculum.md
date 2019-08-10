@@ -11,21 +11,27 @@ header:
 **Estudios**
 -------
 
+**2019 a la fecha** Magíster en ciencias de la ingeniería, mención matemáticas aplicadas.
+
 **2013-2018** Licenciatura en ciencias de la ingeniería, mención matemática. Nota 5.8/7.0
 
 **Experiencia Laboral**
 --------
+
+**2018 a la fecha** Asistente de investigación en Nic Chile Research Labs. Trabajé estudiando de métricas de robustez de grafos.
+
+**2018** Práctica Profesional en Nic Chile Research Labs. Trabajé midiendo el efecto de cambiar el tipo de red física en robustez de redes de internet.
+
+**2017** Práctica Profesional en clínica INDISA. Usé estadística y bases de datos para detectar pacientes que no se presentaban a sus horas agendadas.
+
+**2016** Práctica Profesional en el Laboratorio de Investigación Pesquera, en la Universidad Austral de Chile, sede Puerto Montt. Construí bases de datos para programas de investigación pesquera.
+
+Experiencia Académica
+----------
+
 **2019** Auxiliar de curso Ecuaciones Diferenciales Ordinarias
 
-**2018 a la fecha** Asistente de investigación en Nic Chile Research Labs. Se trabaja en estudio de métricas de robustez de grafos.
-
-**2018** Práctica Profesional en Nic Chile Research Labs. Se trabaja midiendo el efecto de cambiar el tipo de red física en robustez de redes de internet.
-
 **2018** Auxiliar de control en curso Calculo Diferencial e Integral
-
-**2017** Práctica Profesional en clínica INDISA. Apoyo de trabajos de estadística y bases de datos
-
-**2016** Práctica Profesional en el Laboratorio de Investigación Pesquera, en la Universidad Austral de Chile, sede Puerto Montt. Se Construyeron bases de datos para programas de investigación pesquera.
 
 **2015-2019** Ayudante en distintos cursos:
 
@@ -38,21 +44,21 @@ header:
 
 Experiencia Personal
 ----------
-**2018** Asistencia a XIII Escuela de matemáticas Discretas en el Instituto de Sistemas Complejos de Valparaiso. Organizado por el CMM.
+**2018** Asistencia a XIII Escuela de matemáticas discretas en el Instituto de Sistemas Complejos de Valparaiso. Organizado por el CMM.
 
 **2017** Participación en campaña Yo No Digo.
 
-**2017** Vicepresidente del Centro de estudiantes de ingeniería Matemática de la Universidad de Chile (CEIMAT)
+**2017** Vicepresidente del centro de estudiantes de ingeniería matemática de la Universidad de Chile (CEIMAT)
 
-**2017** Asistencia a XII Escuela de matemáticas Discretas en el Instituto de Sistemas Complejos de Valparaiso. Organizado por el CMM.
+**2017** Asistencia a XII Escuela de matemáticas discretas en el Instituto de Sistemas Complejos de Valparaiso. Organizado por el CMM.
 
-**2016** Participación en Campamento invernal de programación competitiva en Universidad de La Serena.
+**2016** Participación en campamento invernal de programación competitiva en Universidad de La Serena.
 
 **2015** Voluntario en Hora del código
 
 **2015 a 2017** Colaborador en El Diario Integral en  redacción de Artículos
 
-**2015 a la fecha** Tenor 1 en Coro de la facultad de ingeniería y Ciencias de la Universidad de Chile. En el año 2018 fui el tesorero del coro,
+**2015 a la fecha** Tenor 1 en Coro de la facultad de ingeniería y Ciencias de la Universidad de Chile. En el año 2018 fui el tesorero del coro.
 
 **2014 a la fecha** Miembro de Comunidad Felicidad
 
