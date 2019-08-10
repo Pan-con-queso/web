@@ -57,10 +57,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-header:
-  overlay_image: /assets/images/RanaRene.jpg
-  caption: "The Muppet Movie (1979)"
-  actions:
 
 
 author:
