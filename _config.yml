@@ -71,7 +71,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/panconqueso__"
     - label: "Letterboxd"
-      icon: "fab fa-fw fa-film"
+      icon: "fas fa-fw fa-film"
       url: "https://letterboxd.com/Panconqueso/"
 
 defaults:
