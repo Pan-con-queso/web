@@ -8,7 +8,7 @@ header:
   actions:
 ---
 
-Algunas otras cosas que he hecho
+Algunas otras cosas que he hecho y que no cabían en las otras secciones
 
 * Cuando chico cantaba y componía canciones, las cuales se pueden encontrar [aquí](http://sofoca.cl/chanchito/)
 * Entre el 2014 y 2015 hice un podcast semanal llamado PEBRE junto con mi hermano, pero no tengo los capítulos online :(
