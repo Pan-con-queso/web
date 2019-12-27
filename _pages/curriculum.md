@@ -18,7 +18,9 @@ header:
 **Experiencia Laboral**
 --------
 
-**2018 a la fecha** Asistente de investigación en Nic Chile Research Labs. Trabajé estudiando de métricas de robustez de grafos.
+**2020** Asistente de investigación en INRIA Francia, en equipo NANO-D-Post. Trabajaré en el equipo de Sergei Grudinin en el proyecto *Matching and reconstruction of 3D shapes using high-order special functions*
+
+**2018 a 2019** Asistente de investigación en Nic Chile Research Labs. Trabajé estudiando de métricas de robustez de grafos.
 
 **2018** Práctica Profesional en Nic Chile Research Labs. Trabajé midiendo el efecto de cambiar el tipo de red física en robustez de redes de internet.
 
@@ -41,6 +43,11 @@ Experiencia Académica
 * Probabilidades y Estadística el año 2016
 * Matemáticas Discretas para la computación el año 2017 y 2018
 * Diseño y Análisis de Algoritmos el año 2019
+
+Publicaciones
+----------
+**2020** "Space geometry effect over the Internet as a physical-logical interdependent network" Junto con Ivana Bachmann y Javier Bustos-Jiménez, a presentarse en la [Netsci-x 2020](https://netscix2020tokyo.github.io/) a desarrollarse en Tokyo, Japón.
+
 
 Experiencia Personal
 ----------
