@@ -11,14 +11,16 @@ header:
 **Estudios**
 -------
 
-**2019 a la fecha** Magíster en ciencias de la ingeniería, mención matemáticas aplicadas.
+**2019 a la fecha** Magíster en ciencias de la ingeniería, mención matemáticas aplicadas. Universidad de Chile
 
-**2013-2018** Licenciatura en ciencias de la ingeniería, mención matemática. Nota 5.8/7.0
+**2013 a la fecha** Ingeniería Civil Matemática. Universidad de Chile
+
+**2013-2018** Licenciatura en ciencias de la ingeniería, mención matemática. Universidad de Chile. Nota 5.8/7.0
 
 **Experiencia Laboral**
 --------
 
-**2020** Asistente de investigación en INRIA Francia, en equipo NANO-D-Post. Trabajaré en el equipo de Sergei Grudinin en el proyecto *Matching and reconstruction of 3D shapes using high-order special functions*
+**2020** Asistente de investigación en INRIA Francia, en equipo NANO-D-POST en Grenoble. Trabajaré en el equipo de Sergei Grudinin en el proyecto *Matching and reconstruction of 3D shapes using high-order special functions*
 
 **2018 a 2019** Asistente de investigación en Nic Chile Research Labs. Trabajé estudiando de métricas de robustez de grafos.
 
@@ -69,7 +71,7 @@ Experiencia Personal
 
 **2014 a la fecha** Miembro de Comunidad Felicidad
 
-**2013 a la fecha** Miembro de Radio Integral. en 2014 y 2015 me desempeñé como director de difusión. Y en 2014 también fui director de programación.
+**2013 a 2017** Miembro de Radio Integral. en 2014 y 2015 me desempeñé como director de difusión. Y en 2014 también fui director de programación.
 
 Habilidades Computacionales
 ----------
