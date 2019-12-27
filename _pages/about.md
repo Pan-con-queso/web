@@ -10,7 +10,7 @@ header:
 
 Estudiante de magister en ciencias de la ingeniería, mención matemática aplicada. Me interesa la computación, los grafos y la matemática discreta en general. También me gusta el cine, aprender de cosas random, la música y viajar.
 
-Voy a realizar mi tesis de magister con José Soto, trabajando en construcción de grafos robustos, que tiene como motivación el problema del cableado de la internet chilena.
+Estoy realizando mi tesis de magister con José Soto, trabajando en el problema de encontrar algoritmos de aproximación para aumentar la nodo-conectividad de un ciclo, el cual tiene como motivación el problema del cableado de la internet chilena.
 
 Contacto
 =========
