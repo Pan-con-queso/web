@@ -65,13 +65,18 @@ Experiencia Personal
 
 **2015** Voluntario en Hora del código
 
-**2015 a 2017** Colaborador en El Diario Integral en  redacción de Artículos
+**2015 a 2017** Colaborador en El Diario Integral en redacción de Artículos
 
 **2015 a la fecha** Tenor 1 en Coro de la facultad de ingeniería y Ciencias de la Universidad de Chile. En el año 2018 fui el tesorero del coro.
 
 **2014 a la fecha** Miembro de Comunidad Felicidad
 
 **2013 a 2017** Miembro de Radio Integral. en 2014 y 2015 me desempeñé como director de difusión. Y en 2014 también fui director de programación.
+
+Reconocimientos
+----------
+**2014** Alumno destacado de la facultad de ingeniería de la Universidad de Chile
+
 
 Habilidades Computacionales
 ----------
