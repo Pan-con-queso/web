@@ -16,6 +16,8 @@ Estudiante de magister en ciencias de la ingeniería, mención matemática aplic
 
 Estoy realizando mi tesis de magister con [José Soto](http://www.dim.uchile.cl/~jsoto/), trabajando en el problema de encontrar algoritmos de aproximación para aumentar la nodo-conectividad de un ciclo, el cual tiene como motivación el problema del cableado de la internet chilena.
 
+Actualmente me encuentro en Grenoble, Francia haciendo una pasantía en el centro de investigación Inria implementando algoritmos de shape matching para ver similitud entre formas de proteínas.
+
 Contacto
 =========
 mail: francisco at sanhueza (punto) net
