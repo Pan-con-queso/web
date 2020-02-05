@@ -20,7 +20,7 @@ header:
 **Experiencia Laboral**
 --------
 
-**2020** Asistente de investigación en INRIA Francia, en equipo NANO-D-POST en Grenoble. Trabajaré en el equipo de Sergei Grudinin en el proyecto *Matching and reconstruction of 3D shapes using high-order special functions*
+**2020** Asistente de investigación en INRIA Francia, en equipo NANO-D-POST en Grenoble. Trabajo en el equipo de Sergei Grudinin en el proyecto *Matching and reconstruction of 3D shapes using high-order special functions*
 
 **2018 a 2019** Asistente de investigación en Nic Chile Research Labs. Trabajé estudiando de métricas de robustez de grafos.
 
