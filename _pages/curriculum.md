@@ -33,7 +33,7 @@ header:
 Experiencia Académica
 ----------
 
-**2019** Auxiliar de curso Ecuaciones Diferenciales Ordinarias
+**2019** Auxiliar de curso Ecuaciones Diferenciales Ordinarias. Hice clases con metodología RP (resolución de problemas)
 
 **2018** Auxiliar de control en curso Calculo Diferencial e Integral
 
@@ -45,17 +45,16 @@ Experiencia Académica
 * Probabilidades y Estadística el año 2016
 * Matemáticas Discretas para la computación el año 2017 y 2018
 * Diseño y Análisis de Algoritmos el año 2019
+Me desempeñé en corrección de controles y tareas.
+
 
 Publicaciones
 ----------
 **2020** "Space geometry effect over the Internet as a physical-logical interdependent network" Junto con Ivana Bachmann y Javier Bustos-Jiménez, presentada en la [Netsci-x 2020](https://netscix2020tokyo.github.io/) desarrollada en Tokyo, Japón.
 
-
-Experiencia Personal
+Asistencia a Congresos
 ----------
 **2019** Asistencia a congreso FLACAM realizada en la facultad de ciencias físicas y matemáticas de la Universidad de Chile
-
-**2019** Organización de Ciclos de cine para alumnos de la carrera de Ingeniería Matemática de la Universidad de Chile en conjunto con Francisco Aliaga y Vicente Ocqueteau. Se pasan películas de diversos géneros y temáticas, a menudo acompañadas por cortometrajes.
 
 **2018** Asistencia al encuentro nacional de ingeniería matemática realizado en la Universidad de Concepción.
 
@@ -63,15 +62,20 @@ Experiencia Personal
 
 **2017** Asistencia al encuentro nacional de ingeniería matemática realizado en la Universidad de Chile.
 
-**2017** Participación en campaña Yo No Digo.
-
-**2017** Vicepresidente del centro de estudiantes de ingeniería matemática de la Universidad de Chile (CEIMAT). Encargado de difusión de actividades.
-
 **2017** Asistencia a XII Escuela de matemáticas discretas en el Instituto de Sistemas Complejos de Valparaiso. Organizado por el CMM.
 
 **2016** Asistencia al encuentro nacional de ingeniería matemática realizado en la Universidad técnica Federico Santa María en Valparaíso.
 
 **2016** Participación en campamento invernal de programación competitiva en Universidad de La Serena organizado por la comunidad de programación competitiva de Chile.
+
+Experiencia Personal
+----------
+
+**2019** Organización de Ciclos de cine para alumnos de la carrera de Ingeniería Matemática de la Universidad de Chile en conjunto con Francisco Aliaga y Vicente Ocqueteau. Se pasan películas de diversos géneros y temáticas, a menudo acompañadas por cortometrajes.
+
+**2017** Participación en campaña Yo No Digo.
+
+**2017** Vicepresidente del centro de estudiantes de ingeniería matemática de la Universidad de Chile (CEIMAT). Encargado de difusión de actividades.
 
 **2015** Voluntario en Hora del código
 
@@ -86,6 +90,8 @@ Experiencia Personal
 Reconocimientos
 ----------
 **2014** Alumno destacado de la facultad de ingeniería de la Universidad de Chile
+
+**2012** Cuarto lugar en olimpiadas regionales de matemáticas, Región de los Lagos
 
 
 Habilidades Computacionales
