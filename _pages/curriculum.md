@@ -6,6 +6,8 @@ header:
   overlay_image: /assets/images/MaryPoppins.jpg
   caption: "Mary Poppins (1964)"
   actions:
+
+date: 2020-02-07
 ---
 
 **Estudios**
