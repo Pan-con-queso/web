@@ -105,5 +105,3 @@ Idiomas
 ----------
 * Español (Nativo)
 * Inglés (Intermedio), PET aprobado
-
-<sup>Ultima actualización: 7 de febrero, 2020</sup>

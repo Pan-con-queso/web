@@ -6,6 +6,8 @@ header:
   overlay_image: /assets/images/WorldofTomorrow.jpg
   caption: "'World of Tomorrow' de Don Hertzfeldt (2015)"
   actions:
+
+date: 2019-08
 ---
 
 Algunas otras cosas que he hecho y que no cabían en las otras secciones
