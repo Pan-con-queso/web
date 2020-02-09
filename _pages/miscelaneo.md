@@ -9,7 +9,7 @@ header:
 
 date: 2019-08
 
-{{ page.date | date: "%B,%Y" }}
+{{ site.time | date: "%B,%Y" }}
 ---
 
 Algunas otras cosas que he hecho y que no cabían en las otras secciones
