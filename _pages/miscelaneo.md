@@ -9,7 +9,6 @@ header:
 
 date: 2019-08
 
-{{ site.time | date: "%B,%Y" }}
 ---
 
 Algunas otras cosas que he hecho y que no cabían en las otras secciones
