@@ -47,7 +47,8 @@ Experiencia Académica
 * Probabilidades y Estadística el año 2016
 * Matemáticas Discretas para la computación el año 2017 y 2018
 * Diseño y Análisis de Algoritmos el año 2019
-<sup>Me desempeñé en corrección de controles y tareas.</sup>
+
+<p><sup>Me desempeñé en corrección de controles y tareas.</sup></p>
 
 
 Publicaciones
