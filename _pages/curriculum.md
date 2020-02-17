@@ -35,13 +35,9 @@ date: 2020-02-07
 Experiencia Académica
 ----------
 
-**2019** Auxiliar de curso Ecuaciones Diferenciales Ordinarias.
+**2019** Auxiliar de curso Ecuaciones Diferenciales Ordinarias. Hice clases con metodología RP (resolución de problemas)
 
-     Hice clases con metodología RP (resolución de problemas)
-
-**2018** Auxiliar de control en curso Calculo Diferencial e Integral
-
-    <p><sup>Di indicaciones en sala y respondí dudas de enunciado durante los controles</sup></p>
+**2018** Auxiliar de control en curso Calculo Diferencial e Integral. Di indicaciones en sala y respondí dudas de enunciado durante los controles.
 
 **2015-2019** Ayudante en distintos cursos:
 
